@@ -1,0 +1,14 @@
+{
+  "name": "$NAME",
+  "serviceAccounts": {
+    "userService": {
+      "url": "https://api.danielhammerl.de/user-service",
+      "username": "raspberrypi-main@danielhammerl.de",
+      "password": "$PASSWORD"
+    },
+    "piMonitoringService": {
+      "url": "https://api.danielhammerl.de/pi-monitoring-server"
+    }
+
+  }
+}
